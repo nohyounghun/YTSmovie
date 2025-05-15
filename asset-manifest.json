@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YTSmovie/static/css/main.8624bf73.css",
+    "main.js": "/YTSmovie/static/js/main.af1e6607.js",
+    "index.html": "/YTSmovie/index.html",
+    "main.8624bf73.css.map": "/YTSmovie/static/css/main.8624bf73.css.map",
+    "main.af1e6607.js.map": "/YTSmovie/static/js/main.af1e6607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8624bf73.css",
+    "static/js/main.af1e6607.js"
+  ]
+}
